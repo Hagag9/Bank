@@ -1,0 +1,87 @@
+﻿  Source.cpp
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsString.h(41,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsString.h(46,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsString.h(58,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsString.h(326,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsString.h(374,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsUser.h(151,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Source.cpp')
+  E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsUser.h(21,12):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsUser.h(322,1): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsInputValidate.h(114,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsInputValidate.h(118,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsBankClient.h(195,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Source.cpp')
+  E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsBankClient.h(151,12):
+  see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsBankClient.h(161,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsBankClient.h(162,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsBankClient.h(163,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsBankClient.h(421,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsBankClient.h(430,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsBankClient.h(447,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsAddNewClientScreen.h(32,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsUpdateClientScreen.h(26,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsTotalBalancesScreen.h(56,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsTrasferScreen.h(36,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsTrasferScreen.h(41,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsCurrency.h(25,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsCurrencyCalculatorScreen.h(13,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsBankClient.h(378,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsUser.h(285,1): warning C4715: 'clsUser::Save': not all control paths return a value
+E:\AboHdHoud\OOP2\Main Screen\Main Screen\clsBankClient.h(433,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+  Main Screen.vcxproj -> E:\AboHdHoud\OOP2\Main Screen\x64\Debug\Main Screen.exe
